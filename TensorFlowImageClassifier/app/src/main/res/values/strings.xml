@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tensor.Flow.Image.Classifier</string>
+    <string name="choose_image">Choose image</string>
+    <string name="choose_image_from_gallery">Choose an image from gallery in order to perform object detection</string>
+    <string name="status">Status</string>
+</resources>
